@@ -1,0 +1,3 @@
+psql -h localhost -U postgres
+
+CREATE DATABASE coco_db
